@@ -7,7 +7,7 @@
 ```
 sudo apt-get install git -y
 git clone https://github.com/nagababu-avula/GC-Cloud-Compute.git
-cd Cloud-Computing/Deep-Learning-Shell/Python/Ubuntu-14.04/
+cd GC-Cloud-Compute/Deep-Learning-Shell/Python/Ubuntu-14.04/
 
 mv install-14-04.sh ~
 cd ~
