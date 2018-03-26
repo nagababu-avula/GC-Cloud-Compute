@@ -12,7 +12,7 @@ cd GC-Cloud-Compute/Deep-Learning-Shell/Python/Ubuntu-14.04/
 mv install-14-04.sh ~
 cd ~
 chmod +x install-14-04.sh
-sudo ./install-14-04.sh <netid or username of ssh key>
+sudo ./install-14-04.sh <username of ssh key>
 ```
 
 ## Testing the framworks
