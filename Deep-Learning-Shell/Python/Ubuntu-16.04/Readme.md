@@ -1,5 +1,5 @@
 ### Ubuntu 16.04 Shell Installation
-#### Author: Nagababu Avula
+#### Organization:      George Washington University 
 
 ### All the below deep learning frame works are installed in python
 
