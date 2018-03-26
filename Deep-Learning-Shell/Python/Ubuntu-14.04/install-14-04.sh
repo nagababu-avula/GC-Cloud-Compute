@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Script to set up a Deep Learning VM on Google Cloud Platform #
-# Autor: Nagababu Avula #
+# Organization:      George Washington University  #
 
 # INSTRUCTIONS: When you run this script, make sure you include the username associated #
 # with your instance as the first parameter. Otherwise, the softwares will not work properly. #
