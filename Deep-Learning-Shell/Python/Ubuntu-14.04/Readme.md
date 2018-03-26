@@ -1,5 +1,5 @@
 # Ubuntu 14.04 steps to run the shell script
-### Author: Nagababu Avula
+### Organization:      George Washington University 
 
 ### To install all the Frameworks (torch, caffe, tensorflow, theano, pytorch), 
 ### launch your VM and run the following commands in order in to your VM terminal.
