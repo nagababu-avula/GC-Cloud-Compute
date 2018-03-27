@@ -7,6 +7,8 @@
 #### Theano in Python 2.7 and 3.5, Pytorch in Python 2.7 and 3.5.
 
 ##### * To activate the virtual python, check the testing software installation section.
+##### * Before Installing Check whether enough storage space available (minimum 30GB) 
+##### * and good to have minimum 2 CPUs with 8GB RAM
 
 ```
 sudo apt-get install git -y
