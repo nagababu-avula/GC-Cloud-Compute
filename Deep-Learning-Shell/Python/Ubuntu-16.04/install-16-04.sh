@@ -68,6 +68,11 @@ sudo pip install numpy --upgrade
 # deactivate the virtual environment
 deactivate
 
+#Install cloud storage and timer
+sudo pip install google.cloud
+sudo pip install cloudstorage
+sudo pip install tqdm
+
 # ------------- Virtual Environment for Tensorflow - Python 3.5.X -------------
 # Install libraries needed to make a virtual environment
 sudo apt-get install -y python3-pip python3-dev python-virtualenv
