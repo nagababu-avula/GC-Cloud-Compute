@@ -136,6 +136,11 @@ If key is 'gkey'
 ```
 ssh -X -i gkey <netid>@<External Ip address>
 ``` 
+or 
+
+```
+ssh -Y -i gkey <netid>@<External Ip address>
+``` 
 Note: Windows users use Mobaexterma and you are fine.
 
 To activate pycharm enter the following commands 
