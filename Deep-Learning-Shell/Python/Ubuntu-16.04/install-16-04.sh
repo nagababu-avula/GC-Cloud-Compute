@@ -107,6 +107,7 @@ sudo pip3 install sklearn
 sudo pip3 install cython
 sudo pip3 install http://download.pytorch.org/whl/cu80/torch-0.2.0.post3-cp35-cp35m-manylinux1_x86_64.whl 
 sudo pip3 install torchvision
+sudo easy_install -U scikit-image
 # deactivate the virtual environment
 deactivate
 
