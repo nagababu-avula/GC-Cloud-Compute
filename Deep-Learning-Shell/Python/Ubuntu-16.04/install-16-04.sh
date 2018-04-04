@@ -68,11 +68,6 @@ sudo pip install numpy --upgrade
 # deactivate the virtual environment
 deactivate
 
-#Install cloud storage and timer
-sudo pip install google.cloud
-sudo pip install cloudstorage
-sudo pip install tqdm
-
 # ------------- Virtual Environment for Tensorflow - Python 3.5.X -------------
 # Install libraries needed to make a virtual environment
 sudo apt-get install -y python3-pip python3-dev python-virtualenv
@@ -107,7 +102,6 @@ sudo pip3 install sklearn
 sudo pip3 install cython
 sudo pip3 install http://download.pytorch.org/whl/cu80/torch-0.2.0.post3-cp35-cp35m-manylinux1_x86_64.whl 
 sudo pip3 install torchvision
-sudo easy_install -U scikit-image
 # deactivate the virtual environment
 deactivate
 
@@ -266,3 +260,13 @@ source /etc/environment
 python -m caffe2.python.operator_test.relu_op_test
 
 cd ~
+
+#Install cloud storage and timer
+sudo pip install google.cloud
+sudo pip install cloudstorage
+sudo pip install tqdm
+sudo pip install opentype
+sudo pip install --upgrade pyasn1-modules
+sudo apt-get install xinit
+sudo easy_install -U scikit-image
+
